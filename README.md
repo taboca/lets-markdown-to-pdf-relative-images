@@ -6,4 +6,11 @@ The code uses the library from
 
 https://www.npmjs.com/package/markdown-pdf
 
+## Sample differences from the main article 
+
+* Fixes the paths of all the images so that relative images can work
+
+## Usage
+
+node index.js example-folder
 
